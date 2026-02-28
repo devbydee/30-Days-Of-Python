@@ -4,7 +4,7 @@
   - [Data](#data)
   - [Statistics Module](#statistics-module)
 - [NumPy](#numpy)
-  - [Importing NumPy](#importing-numpy)
+  - [Importing NumPy](#importing-numpy) 
   - [Creating numpy array using](#creating-numpy-array-using)
     - [Creating int numpy arrays](#creating-int-numpy-arrays)
     - [Creating float numpy arrays](#creating-float-numpy-arrays)
